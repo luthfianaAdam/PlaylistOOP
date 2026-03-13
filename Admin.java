@@ -1,5 +1,3 @@
-package Team_Assignment_1;
-
 class Admin extends User{
 
     // Constructor pada child class

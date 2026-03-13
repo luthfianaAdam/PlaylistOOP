@@ -7,8 +7,6 @@ Group 6:
 5. RINI S. MARPAUNG (2902700713)
  */
 
-package Team_Assignment_1;
-
 public class Demo {
     public static void main(String[] args) {
         // Pembuatan object untuk berinteraksi dengan class lain

@@ -1,5 +1,3 @@
-package Team_Assignment_1;
-
 public class PlaylistOOP {
     private String judul;
     private String artis;
